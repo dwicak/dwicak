@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Darmawan Wicaksono, PhD student from Social Sciences University of Ankara/ Ankara Sosyal Bilimler Üniversitesi (ASBU) 
-- 👀 I’m interested in text analysis
+- 👀 I’m interested in social media analytics, artificial intelligence, and natural language processing (NLP)
 - 📫 How to reach me, darmawan.wicaksono@student.asbu.edu.tr
